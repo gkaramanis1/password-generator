@@ -14,4 +14,4 @@ To use this application, click on the red generate password button. Then, prompt
 
 ![screenshot of password generator webpage](/images/password-generator-screenshot.png)
 
-[website link]()
+[website link](https://gkaramanis1.github.io/password-generator/)
